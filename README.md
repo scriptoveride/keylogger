@@ -1,2 +1,4 @@
 # keylogger
-Key logger with that also gets the time of the key stroke
+Key logger that also gets the time of the key stroke.
+I found the base of it somewhere online and made it better. 
+more coming soon...
